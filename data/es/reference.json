@@ -1,0 +1,17 @@
+{
+  "section.files": "Archivos y carpetas",
+  "section.subagents": "Subagentes",
+  "section.sessions": "Conversaciones",
+  "candidate.noCwd": "(sin directorio de trabajo)",
+  "crumb.root": "Espacio de trabajo",
+  "fileOpen.title": "No se pudo abrir el archivo",
+  "fileOpen.failed": "No se pudo abrir “{path}”; inténtalo de nuevo o cierra este mensaje",
+  "fileOpen.close": "Cerrar",
+  "fileOpen.retry": "Reintentar",
+  "time.now": "ahora",
+  "time.minutes": "{n} min",
+  "time.hours": "{n} h",
+  "time.days": "{n} d",
+  "time.months": "{n} meses",
+  "time.years": "{n} años"
+}

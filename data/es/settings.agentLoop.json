@@ -1,0 +1,14 @@
+{
+  "title": "Ciclo del agente",
+  "description": "Controla cómo el agente distribuye las llamadas a herramientas.",
+  "maxParallel": "Llamadas a herramientas en paralelo",
+  "maxParallelHint": "Cantidad máxima de llamadas paralelas que pueden ejecutarse a la vez dentro de un mismo paso.",
+  "overridden": "Anulado",
+  "reset": "Restablecer",
+  "readOnly": "En esta implementación, los ajustes son de solo lectura.",
+  "unavailable": "Este complemento no está cargado, así que no se puede configurar en este momento.",
+  "save": "Guardar",
+  "saving": "Guardando…",
+  "saveFailed": "La implementación no aceptó estos valores; se conservaron para que los corrijas.",
+  "invalidNumber": "Escribe un número; déjalo en blanco para usar el valor predeterminado."
+}

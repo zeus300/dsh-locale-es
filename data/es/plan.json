@@ -1,0 +1,19 @@
+{
+  "chip.label": "Plan",
+  "preview.title": "Plan",
+  "preview.document": "Plan · Markdown",
+  "preview.action": "Abrir",
+  "preview.open": "Abrir el plan en la barra lateral",
+  "preview.full": "Ver el plan completo",
+  "preview.openNamed": "Abrir plan: {title}",
+  "preview.loading": "Leyendo el plan…",
+  "preview.failed": "No se pudo leer el plan",
+  "preview.invalidAddress": "La dirección del plan no es válida",
+  "preview.historyUnavailable": "No se puede leer el historial de la sesión",
+  "preview.notFound": "No se encontró este plan",
+  "preview.unavailable": "La vista previa del plan no está disponible",
+  "preview.expired": "La vista previa temporal del plan expiró. Vuelve a abrirla desde la tarjeta de aprobación pendiente.",
+  "chip.on.aria": "Modo plan activado; pulsa para desactivarlo",
+  "chip.on.title": "Modo plan activado — haz clic para desactivarlo (/plan off)",
+  "chip.exitFailed": "No se pudo salir del modo plan"
+}

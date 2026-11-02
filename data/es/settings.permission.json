@@ -1,0 +1,14 @@
+{
+  "title": "Permisos",
+  "description": "Elige el modo de permisos predeterminado para las sesiones nuevas",
+  "loading": "Cargando",
+  "unavailable": "No disponible",
+  "preset.readOnly": "Solo lectura",
+  "preset.workspaceWrite": "Escritura en el espacio de trabajo",
+  "preset.fullAccess": "Acceso completo",
+  "confirm.title": "¿Activar el acceso completo?",
+  "confirm.description": "Con el acceso completo, las sesiones nuevas reducen los pasos de confirmación y pueden ejecutar más acciones directamente, incluidas operaciones sensibles, cambios de archivos o comandos externos. Úsalo solo cuando confíes en las tareas siguientes.",
+  "confirm.acknowledge": "Entiendo los riesgos y deseo continuar",
+  "confirm.cancel": "Cancelar",
+  "confirm.enable": "Activar acceso completo"
+}

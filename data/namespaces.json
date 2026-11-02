@@ -1,0 +1,374 @@
+[
+  {
+    "ns": "agent-team",
+    "safe": "agent-team",
+    "pkg": "dsh-experimental-client-ui-agent-team",
+    "keys": 25
+  },
+  {
+    "ns": "approval",
+    "safe": "approval",
+    "pkg": "dsh-client-ui-approval",
+    "keys": 5
+  },
+  {
+    "ns": "chat",
+    "safe": "chat",
+    "pkg": "dsh-client-ui-chat",
+    "keys": 191
+  },
+  {
+    "ns": "command",
+    "safe": "command",
+    "pkg": "dsh-client-ui-commands",
+    "keys": 28
+  },
+  {
+    "ns": "common",
+    "safe": "common",
+    "pkg": "dsh-client-locale",
+    "keys": 41
+  },
+  {
+    "ns": "conversation",
+    "safe": "conversation",
+    "pkg": "dsh-client-ui-conversation",
+    "keys": 374
+  },
+  {
+    "ns": "cordis",
+    "safe": "cordis",
+    "pkg": "dsh-client-ui-cordis",
+    "keys": 51
+  },
+  {
+    "ns": "cotTranslation",
+    "safe": "cotTranslation",
+    "pkg": "dsh-experimental-client-ui-cot-translation",
+    "keys": 32
+  },
+  {
+    "ns": "deepseek-model-label-1017",
+    "safe": "deepseek-model-label-1017",
+    "pkg": "dsh-client-ui-deepseek-model-label-1017",
+    "keys": 1
+  },
+  {
+    "ns": "deliverables",
+    "safe": "deliverables",
+    "pkg": "dsh-client-ui-deliverables",
+    "keys": 60
+  },
+  {
+    "ns": "documentHtml",
+    "safe": "documentHtml",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 4
+  },
+  {
+    "ns": "documentMarkdown",
+    "safe": "documentMarkdown",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 4
+  },
+  {
+    "ns": "entryCustomization",
+    "safe": "entryCustomization",
+    "pkg": "dsh-client-ui-entry-customization",
+    "keys": 5
+  },
+  {
+    "ns": "feedback",
+    "safe": "feedback",
+    "pkg": "dsh-client-ui-message-feedback",
+    "keys": 20
+  },
+  {
+    "ns": "goal",
+    "safe": "goal",
+    "pkg": "dsh-client-ui-goal",
+    "keys": 12
+  },
+  {
+    "ns": "job",
+    "safe": "job",
+    "pkg": "dsh-client-ui-jobs",
+    "keys": 40
+  },
+  {
+    "ns": "model",
+    "safe": "model",
+    "pkg": "dsh-client-ui-model-selection",
+    "keys": 23
+  },
+  {
+    "ns": "open-in-app",
+    "safe": "open-in-app",
+    "pkg": "dsh-client-ui-open-in-app",
+    "keys": 45
+  },
+  {
+    "ns": "plan",
+    "safe": "plan",
+    "pkg": "dsh-client-ui-plan",
+    "keys": 17
+  },
+  {
+    "ns": "pluginManager",
+    "safe": "pluginManager",
+    "pkg": "dsh-client-ui-plugin-manager",
+    "keys": 221
+  },
+  {
+    "ns": "pluginMarket",
+    "safe": "pluginMarket",
+    "pkg": "dsh-client-ui-plugin-market",
+    "keys": 78
+  },
+  {
+    "ns": "question",
+    "safe": "question",
+    "pkg": "dsh-client-ui-user-questions",
+    "keys": 31
+  },
+  {
+    "ns": "reference",
+    "safe": "reference",
+    "pkg": "dsh-client-ui-reference",
+    "keys": 15
+  },
+  {
+    "ns": "schedule.catalog",
+    "safe": "schedule.catalog",
+    "pkg": "dsh-client-ui-schedule",
+    "keys": 70
+  },
+  {
+    "ns": "schedule.manager",
+    "safe": "schedule.manager",
+    "pkg": "dsh-client-ui-schedule",
+    "keys": 188
+  },
+  {
+    "ns": "secretMask",
+    "safe": "secretMask",
+    "pkg": "dsh-client-ui-secret-mask",
+    "keys": 2
+  },
+  {
+    "ns": "session-inspector",
+    "safe": "session-inspector",
+    "pkg": "dsh-experimental-session-inspector",
+    "keys": 52
+  },
+  {
+    "ns": "session-log-download",
+    "safe": "session-log-download",
+    "pkg": "dsh-session-log-export",
+    "keys": 10
+  },
+  {
+    "ns": "settings",
+    "safe": "settings",
+    "pkg": "dsh-client-ui-settings-general",
+    "keys": 41
+  },
+  {
+    "ns": "settings.account",
+    "safe": "settings.account",
+    "pkg": "dsh-client-ui-settings-account",
+    "keys": 94
+  },
+  {
+    "ns": "settings.agentLoop",
+    "safe": "settings.agentLoop",
+    "pkg": "dsh-client-ui-settings-agent-loop",
+    "keys": 12
+  },
+  {
+    "ns": "settings.agentPreset",
+    "safe": "settings.agentPreset",
+    "pkg": "dsh-client-ui-agent-preset",
+    "keys": 47
+  },
+  {
+    "ns": "settings.locale",
+    "safe": "settings.locale",
+    "pkg": "dsh-client-locale",
+    "keys": 1
+  },
+  {
+    "ns": "settings.models",
+    "safe": "settings.models",
+    "pkg": "dsh-client-ui-settings-models",
+    "keys": 134
+  },
+  {
+    "ns": "settings.permission",
+    "safe": "settings.permission",
+    "pkg": "dsh-client-ui-permission-presets",
+    "keys": 12
+  },
+  {
+    "ns": "settings.pluginInventory",
+    "safe": "settings.pluginInventory",
+    "pkg": "dsh-client-ui-settings-plugin-inventory",
+    "keys": 37
+  },
+  {
+    "ns": "settings.plugins",
+    "safe": "settings.plugins",
+    "pkg": "dsh-client-ui-settings-plugins",
+    "keys": 5
+  },
+  {
+    "ns": "settings.sessionLog",
+    "safe": "settings.sessionLog",
+    "pkg": "dsh-client-ui-settings-session-log",
+    "keys": 4
+  },
+  {
+    "ns": "settings.shell",
+    "safe": "settings.shell",
+    "pkg": "dsh-client-ui-settings-shell",
+    "keys": 14
+  },
+  {
+    "ns": "settings.subagent",
+    "safe": "settings.subagent",
+    "pkg": "dsh-client-ui-settings-subagent",
+    "keys": 35
+  },
+  {
+    "ns": "settings.theme",
+    "safe": "settings.theme",
+    "pkg": "dsh-client-ui-theme",
+    "keys": 25
+  },
+  {
+    "ns": "settings.webSearch",
+    "safe": "settings.webSearch",
+    "pkg": "dsh-client-ui-settings-web-search",
+    "keys": 27
+  },
+  {
+    "ns": "shortcuts",
+    "safe": "shortcuts",
+    "pkg": "dsh-client-ui-shortcuts",
+    "keys": 56
+  },
+  {
+    "ns": "shortcuts.layout",
+    "safe": "shortcuts.layout",
+    "pkg": "dsh-client-ui-layout",
+    "keys": 1
+  },
+  {
+    "ns": "sidebar",
+    "safe": "sidebar",
+    "pkg": "dsh-client-ui-sidebar",
+    "keys": 6
+  },
+  {
+    "ns": "sidebarBrowser",
+    "safe": "sidebarBrowser",
+    "pkg": "dsh-client-ui-sidebar-browser",
+    "keys": 26
+  },
+  {
+    "ns": "sidebarCodePreview",
+    "safe": "sidebarCodePreview",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 3
+  },
+  {
+    "ns": "sidebarDocumentPreview",
+    "safe": "sidebarDocumentPreview",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 22
+  },
+  {
+    "ns": "sidebarExcel",
+    "safe": "sidebarExcel",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 15
+  },
+  {
+    "ns": "sidebarFiles",
+    "safe": "sidebarFiles",
+    "pkg": "dsh-client-ui-sidebar-files",
+    "keys": 17
+  },
+  {
+    "ns": "sidebarImage",
+    "safe": "sidebarImage",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 11
+  },
+  {
+    "ns": "sidebarOffice",
+    "safe": "sidebarOffice",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 15
+  },
+  {
+    "ns": "sidebarPdf",
+    "safe": "sidebarPdf",
+    "pkg": "dsh-client-ui-sidebar-documentpreview",
+    "keys": 15
+  },
+  {
+    "ns": "sidebarRight",
+    "safe": "sidebarRight",
+    "pkg": "dsh-client-ui-sidebar-right",
+    "keys": 35
+  },
+  {
+    "ns": "sidebarTerminal",
+    "safe": "sidebarTerminal",
+    "pkg": "dsh-client-ui-sidebar-terminal",
+    "keys": 28
+  },
+  {
+    "ns": "skill",
+    "safe": "skill",
+    "pkg": "dsh-client-ui-skill",
+    "keys": 8
+  },
+  {
+    "ns": "slash.menu",
+    "safe": "slash.menu",
+    "pkg": "dsh-client-ui-input-trigger",
+    "keys": 9
+  },
+  {
+    "ns": "subagent",
+    "safe": "subagent",
+    "pkg": "dsh-client-ui-subagent",
+    "keys": 41
+  },
+  {
+    "ns": "trajectory",
+    "safe": "trajectory",
+    "pkg": "dsh-client-ui-trajectory",
+    "keys": 192
+  },
+  {
+    "ns": "voice-input",
+    "safe": "voice-input",
+    "pkg": "dsh-experimental-client-ui-voice-input",
+    "keys": 109
+  },
+  {
+    "ns": "workflowRun",
+    "safe": "workflowRun",
+    "pkg": "dsh-client-ui-workflow-run",
+    "keys": 18
+  },
+  {
+    "ns": "workspace",
+    "safe": "workspace",
+    "pkg": "dsh-client-ui-workspace",
+    "keys": 119
+  }
+]

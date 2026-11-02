@@ -1,0 +1,58 @@
+{
+  "name": "dsh-locale-es",
+  "version": "0.1.0",
+  "description": "Paquete de idioma español (es) para DeepSeek Harness: traduce la interfaz web y añade Español al selector de idioma.",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "locale",
+    "spanish",
+    "es",
+    "i18n"
+  ],
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./client": {
+      "default": "./lib/client.js"
+    },
+    "./data/*": "./data/*",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "client": {
+      "inject": [
+        "@deepseek-ai/dsh-client-locale"
+      ],
+      "platform": "web"
+    }
+  },
+  "files": [
+    "lib/index.js",
+    "lib/client.js",
+    "data/es/*.json",
+    "data/shell-es.json",
+    "README.md",
+    "README.es.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "node build.mjs",
+    "validate": "node tools/validate.mjs",
+    "prepublishOnly": "node build.mjs && node tools/validate.mjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeus300/dsh-locale-es.git"
+  },
+  "author": "zeus300",
+  "bugs": {
+    "url": "https://github.com/zeus300/dsh-locale-es/issues"
+  },
+  "homepage": "https://github.com/zeus300/dsh-locale-es#readme"
+}

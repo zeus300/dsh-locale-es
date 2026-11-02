@@ -1,0 +1,17 @@
+{
+  "title": "Hoja de cálculo",
+  "language": "es",
+  "loading": "Representando el documento...",
+  "invalid": "No se pudo abrir esta hoja de cálculo. Revisa su formato, su contenido o su protección con contraseña.",
+  "tooLarge": "Esta hoja de cálculo supera el límite de tamaño de la vista previa.",
+  "timeout": "Se agotó el tiempo de espera al abrir la hoja de cálculo. Prueba con un archivo más pequeño.",
+  "encoding": "No se pudo reconocer la codificación de este archivo de texto. Guárdalo como UTF-8 o como UTF-16 con BOM e inténtalo de nuevo.",
+  "formulaWarning": "Este libro contiene fórmulas. Es posible que los resultados mostrados falten o sean inexactos.",
+  "unsupportedNotice": "Esta vista previa no admite {features} de este libro. Ábrelo con una aplicación del sistema para verlo completo.",
+  "charts": "gráficos",
+  "images": "imágenes",
+  "shapes": "formas",
+  "conditionalFormatting": "formato condicional",
+  "featureSeparator": ", ",
+  "retry": "Reintentar"
+}

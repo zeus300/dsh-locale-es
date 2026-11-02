@@ -1,0 +1,17 @@
+{
+  "zoomControls": "Controles de zoom",
+  "zoomMenu": "Elegir el zoom",
+  "zoomOut": "Alejar",
+  "zoomIn": "Acercar",
+  "zoomFitWidth": "Ajustar al ancho",
+  "zoomValue": "{percent}%",
+  "title": "PDF",
+  "pageImage": "Página {page} del PDF",
+  "loading": "Representando el documento...",
+  "rendering": "Representando la página…",
+  "failed": "No se pudo mostrar el PDF: {message}",
+  "password": "Este PDF requiere contraseña; aún no se admite la vista previa protegida",
+  "workerFailed": "El proceso de representación del PDF no pudo continuar; inténtalo de nuevo",
+  "unsupported": "La vista previa de PDF requiere el contenido completo del archivo",
+  "retry": "Reintentar"
+}
